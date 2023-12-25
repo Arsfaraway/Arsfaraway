@@ -56,16 +56,16 @@
 
 <div align="left">
   <a href="https://github.com/https://github.com/Arsfaraway" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 15px; width: 60px;" />
+    <img src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 35px; width: 60px;" />
   </a>
   <a href="https://gitlab.com/https://git.csc.sibsutis.ru/iv121s09" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 15px; width: 60px;" />
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 35px; width: 60px;" />
   </a>  
   <a href="https://vk.com/arsermak" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="vk" style="margin-bottom: 15px; width: 60px;" />
+    <img src="https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="vk" style="margin-bottom: 35px; width: 60px;" />
   </a>  
   <a href="https://t.me/arsermak" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="telegram" style="margin-bottom: 15px; width: 60px;" />
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="telegram" style="margin-bottom: 35px; width: 60px;" />
   </a>
 </div>
 
