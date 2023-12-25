@@ -56,16 +56,16 @@
 
 <div align="left">
   <a href="https://github.com/Arsfaraway" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" width: "40px" />
+    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" width: "40px" />
   </a>
   <a href="https://gitlab.com/https://git.csc.sibsutis.ru/iv121s09" target="_blank"">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" width: "40px" />
+    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" width: "40px" />
   </a>  
   <a href="https://vk.com/arsermak" target="_blank"">
-    <img src="https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=vk&logoColor=white" alt="vk" width: "40px" />
+    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=vk&logoColor=white" alt="vk" width: "40px" />
   </a>  
   <a href="https://t.me/arsermak" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width: "40px" />
+    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width: "40px" />
   </a>
 </div>
 
