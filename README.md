@@ -43,10 +43,10 @@
 ### Other Technologies
 
 <div align="center">
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-  <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
-  <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://ww1.prweb.com/prfiles/2012/10/19/10587263/new%20logo.jpg" alt="GitLab" height="30" /></a>
-  <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://i2.wp.com/miro.medium.com/1*vpmlMejv8IKru0CEkgJVJg.png" alt="GitLab" height="30" /></a>
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" style="margin: 10px"  height="100" /></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" style="margin: 10px"  height="100" /></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://ww1.prweb.com/prfiles/2012/10/19/10587263/new%20logo.jpg" style="margin: 10px"  height="100" /></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://i2.wp.com/miro.medium.com/1*vpmlMejv8IKru0CEkgJVJg.png" style="margin: 10px"  height="100" /></a>
 </div>
 
 </td>
