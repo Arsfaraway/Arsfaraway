@@ -44,9 +44,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://ww1.prweb.com/prfiles/2012/10/19/10587263/new%20logo.jpg" alt="GitLab" height="30" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://ww1.prweb.com/prfiles/2012/10/19/10587263/new%20logo.jpg" alt="GitLab" height="30" /></a> 
-  https://res.cloudinary.com/practicaldev/image/fetch/s--C09QVOhX--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/azttqusus4be1v7cqxf2.jpg
-</div>
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--C09QVOhX--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/azttqusus4be1v7cqxf2.jpg
+</div>" alt="GitLab" height="30" /></a> 
 
 </td><td valign="top" width="33%">
 
