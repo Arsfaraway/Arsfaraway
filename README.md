@@ -1,5 +1,5 @@
+## **<div align="center"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-christmas-tree-1919245-1619927.png?f=webp&w=256" height="40" width="40" style="margin-right: 10px;"> Hi there 👋</div>**
 
-## **<div align="center">  ![image](https://github.com/Arsfaraway/Arsfaraway/assets/151498635/11f5cd98-1098-4f3c-b00b-0a54c7bcd64e) Hi there 👋</div>**  
 
 - 👨‍🎓 I am a 3rd year student of SibSUTIS University in Novosibirsk 🏙️ 
   
