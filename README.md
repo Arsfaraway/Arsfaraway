@@ -1,10 +1,3 @@
-<div align="left">
-  <p>fsf</p>
-  <video height="40" width="50" controls>
-    <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/christmas-wreath-10154599-8293402.mp4" type="video/mp4">
-    Ваш браузер не поддерживает тег video.
-  </video>
-</div>
 
 ## **<div align="center">Hi there 👋</div>**  
   
