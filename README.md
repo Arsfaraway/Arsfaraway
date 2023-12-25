@@ -2,7 +2,8 @@
 ## **<div align="center">Hi there 👋</div>**  
   
 
-- 👨‍🎓 I am a 3rd year student of SibSUTIS University in Novosibirsk 🏙️  
+- 👨‍🎓 I am a 3rd year student of SibSUTIS University in Novosibirsk 🏙️ ![image](https://github.com/Arsfaraway/Arsfaraway/assets/151498635/11f5cd98-1098-4f3c-b00b-0a54c7bcd64e)
+  
   
 
 - 🌱 I’m currently learning С++ and C# 🧠  
