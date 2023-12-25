@@ -35,7 +35,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -46,7 +46,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://ww1.prweb.com/prfiles/2012/10/19/10587263/new%20logo.jpg" alt="GitLab" height="30" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://i2.wp.com/miro.medium.com/1*vpmlMejv8IKru0CEkgJVJg.png" alt="GitLab" height="30" /></a>  
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
