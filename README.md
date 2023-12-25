@@ -43,9 +43,9 @@
 ### Other Technologies
 
 <div align="center">
-  <a href="https://github.com/" target="_blank"><img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height= "50" /></a>  
-  <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height= "50" /></a>
-  <a href="https://github.com/" target="_blank"><img style="margin: 0px" src="https://i2.wp.com/miro.medium.com/1*vpmlMejv8IKru0CEkgJVJg.png" alt="CI/CD" height= "50" /></a>
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height= "50" /></a>  
+  <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height= "50" /></a>
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://i2.wp.com/miro.medium.com/1*vpmlMejv8IKru0CEkgJVJg.png" alt="CI/CD" height= "50" /></a>
 </div>
 
 </td>
@@ -56,16 +56,16 @@
 
 <div align="left">
   <a href="https://github.com/Arsfaraway" target="_blank">
-    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" width: "40px" />
+    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" width: "40" />
   </a>
   <a href="https://gitlab.com/https://git.csc.sibsutis.ru/iv121s09" target="_blank"">
-    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" width: "40px" />
+    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" width: "40" />
   </a>  
   <a href="https://vk.com/arsermak" target="_blank"">
-    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=vk&logoColor=white" alt="vk" width: "40px" />
+    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=vk&logoColor=white" alt="vk" width: "40" />
   </a>  
   <a href="https://t.me/arsermak" target="_blank">
-    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width: "40px" />
+    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width: "40" />
   </a>
 </div>
 
