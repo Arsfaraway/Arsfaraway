@@ -56,16 +56,16 @@
 
 <div align="left">
   <a href="https://github.com/https://github.com/Arsfaraway" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px; width: 50px;" />
+    <img src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-right: 10px; width: 50px;" />
   </a>
   <a href="https://gitlab.com/https://git.csc.sibsutis.ru/iv121s09" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 5px; width: 50px;" />
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-right: 10px; width: 50px;" />
   </a>  
   <a href="https://vk.com/arsermak" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="vk" style="margin-bottom: 5px; width: 50px;" />
+    <img src="https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="vk" style="margin-right: 10px; width: 50px;" />
   </a>  
   <a href="https://t.me/arsermak" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="telegram" style="margin-bottom: 5px; width: 50px;" />
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="telegram" style="margin-right: 10px; width: 50px;" />
   </a>
 </div>
 
@@ -74,8 +74,9 @@
 
 
 
+
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Arsfaraway&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Arsfaraway&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
