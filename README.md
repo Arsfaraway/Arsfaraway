@@ -56,10 +56,10 @@
 
 <div align="left">
   <a href="https://github.com/Arsfaraway" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" margin-left: 55px; style="width: 40px;" />
+    <img src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="width: 40px; margin-left: 55px;" />
   </a>
   <a href="https://gitlab.com/https://git.csc.sibsutis.ru/iv121s09" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" margin-left: 55px; style="margin-right: 10px; width: 40px;" />
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-right: 10px; margin-left: 55px; width: 40px;" />
   </a>  
   <a href="https://vk.com/arsermak" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=vk&logoColor=white" alt="vk" style="margin-right: 10px; width: 40px;" />
