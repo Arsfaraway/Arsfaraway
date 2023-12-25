@@ -55,17 +55,17 @@
 ## Connect with me
 
 <div align="left">
-  <a href="https://github.com/Arsfaraway" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="width: 40px;" />
+  <a href="https://github.com/Arsfaraway" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/25/25657.png?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="width: 40px; margin: 20px;" />
   </a>
-  <a href="https://gitlab.com/https://git.csc.sibsutis.ru/iv121s09" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="width: 40px;" />
+  <a href="https://gitlab.com/https://git.csc.sibsutis.ru/iv121s09" target="_blank"">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="width: 40px; margin: 20px;" />
   </a>  
-  <a href="https://vk.com/arsermak" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=vk&logoColor=white" alt="vk" style="width: 40px;" />
+  <a href="https://vk.com/arsermak" target="_blank"">
+    <img src="https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=vk&logoColor=white" alt="vk" style="width: 40px; margin: 20px;" />
   </a>  
   <a href="https://t.me/arsermak" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="width: 40px;" />
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="width: 40px; margin: 20px;" />
   </a>
 </div>
 
