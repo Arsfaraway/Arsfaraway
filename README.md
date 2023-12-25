@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="100%">
+    <td valign="top" width="50%">
 
 ### Languages
 
