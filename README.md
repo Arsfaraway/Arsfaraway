@@ -63,8 +63,13 @@
 <a href="https://gitlab.com/https://git.csc.sibsutis.ru/iv121s09" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
+<a href="https://vk.com/arsermak" target="_blank">
+<img src=https://cdn-icons-png.flaticon.com/128/3938/3938067.png?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>  
+<a href="https://t.me/arsermak" target="_blank">
+<img src=https://cdn-icons-png.flaticon.com/128/3536/3536661.png?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>  
 </div>  
-  
 
 <br/>  
 
