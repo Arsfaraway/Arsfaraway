@@ -1,4 +1,4 @@
-## **<div align="center"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-christmas-tree-1919245-1619927.png?f=webp&w=256" height="40" width="40" style="margin-right: 10px; img src="https://cdn.iconscout.com/icon/free/png-512/free-christmas-tree-1919245-1619927.png?f=webp&w=256" height="40" width="40" style="margin-right: 10px;"> Hi there 👋</div>**
+## **<div align="center"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-christmas-tree-1919245-1619927.png?f=webp&w=256" height="40" width="40" style="margin-right: 10px;> Hi there 👋</div>**
 
 
 - 👨‍🎓 I am a 3rd year student of SibSUTIS University in Novosibirsk 🏙️ 
