@@ -20,7 +20,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -44,7 +44,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://ww1.prweb.com/prfiles/2012/10/19/10587263/new%20logo.jpg" alt="GitLab" height="30" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://javamaster.it/wp-content/uploads/2021/04/cicd.png" alt="GitLab" height="30" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://i2.wp.com/miro.medium.com/1*vpmlMejv8IKru0CEkgJVJg.png" alt="GitLab" height="30" /></a>  
 
 </td><td valign="top" width="33%">
 
