@@ -1,7 +1,7 @@
 ## **<div align="center">  Hi there 👋</div>**
 
 
-- 👨‍🎓 I am a 4rd year student of SibSUTIS University in Novosibirsk 🏙️ 
+- 👨‍🎓 I am a 1st year graduate student at NSTU in Novosibirsk 🏙️ 
   
   
 
